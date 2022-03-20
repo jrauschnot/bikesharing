@@ -3,6 +3,8 @@
 # Project Overview:
 An analysis of bike-sharing data from New York City using Tableau and Pandas to determine the liklihood of success of a similar venture in Des Moines, IA..
 
+[link to dashboard](https://public.tableau.com/app/profile/james.rauschnot#!/)
+
 ## Resources:
 
 * Data Sources:
