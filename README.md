@@ -45,23 +45,22 @@ A visualization of trips by Gender and Weekday. The majortiy of rides for both M
 
 ---------
 
-6. Top Starting Locations:
-
-<img width="987" alt="Screen Shot 2022-03-20 at 1 17 10 PM" src="https://user-images.githubusercontent.com/93015602/159184361-309dd859-9134-4b6d-bb91-e3b8f5f3345d.png">
-
-7. Top Ending Locations:
-
-<img width="982" alt="Screen Shot 2022-03-20 at 1 16 47 PM" src="https://user-images.githubusercontent.com/93015602/159184360-44b3112a-2ba6-4b3a-8168-5da7b87c9e7a.png">
-
-8. August Peak Hours:
-
-
-<img width="991" alt="Screen Shot 2022-03-20 at 1 17 32 PM" src="https://user-images.githubusercontent.com/93015602/159184363-3f08f054-17e1-4489-9713-0ef28efc7bc4.png">
-
-9. Customer Types:
+6. Customer Types:
 
 
 <img width="845" alt="Screen Shot 2022-03-20 at 1 18 30 PM" src="https://user-images.githubusercontent.com/93015602/159184364-984660c3-41be-47b1-99b6-1ffed470817b.png">
+
+7. Top Starting Locations:
+
+<img width="987" alt="Screen Shot 2022-03-20 at 1 17 10 PM" src="https://user-images.githubusercontent.com/93015602/159184361-309dd859-9134-4b6d-bb91-e3b8f5f3345d.png">
+
+8. Top Ending Locations:
+
+<img width="991" alt="Screen Shot 2022-03-20 at 1 17 32 PM" src="https://user-images.githubusercontent.com/93015602/159184363-3f08f054-17e1-4489-9713-0ef28efc7bc4.png">
+
+9. August Peak Hours:
+
+<img width="982" alt="Screen Shot 2022-03-20 at 1 16 47 PM" src="https://user-images.githubusercontent.com/93015602/159184360-44b3112a-2ba6-4b3a-8168-5da7b87c9e7a.png">
 
 
 ## Summary:
