@@ -47,25 +47,47 @@ A visualization of trips by Gender and Weekday. The majortiy of rides for both M
 
 6. Customer Types:
 
+A visualization of trips by user types.  The majority of users are paid subscribers while the minority of users are customers. 
+
 
 <img width="845" alt="Screen Shot 2022-03-20 at 1 18 30 PM" src="https://user-images.githubusercontent.com/93015602/159184364-984660c3-41be-47b1-99b6-1ffed470817b.png">
 
 7. Top Starting Locations:
 
+A visualization of top starting locations which demonstrates rides starting in high density tourist areas (ie. Tourist sites, water, etc.)
+
 <img width="987" alt="Screen Shot 2022-03-20 at 1 17 10 PM" src="https://user-images.githubusercontent.com/93015602/159184361-309dd859-9134-4b6d-bb91-e3b8f5f3345d.png">
 
 8. Top Ending Locations:
 
+A visualization of top ending locations which demonstrates rides starting in high density tourist areas (ie. Tourist sites, water, etc.)
+
 <img width="991" alt="Screen Shot 2022-03-20 at 1 17 32 PM" src="https://user-images.githubusercontent.com/93015602/159184363-3f08f054-17e1-4489-9713-0ef28efc7bc4.png">
 
 9. August Peak Hours:
+
+A visualization of peak hours in august which demonstrates rides peak betwenn 0600-0900 & 1600-1900.  This suggests a relationship of riders whom use bikes for transport to/from the workplace. 
 
 <img width="982" alt="Screen Shot 2022-03-20 at 1 16 47 PM" src="https://user-images.githubusercontent.com/93015602/159184360-44b3112a-2ba6-4b3a-8168-5da7b87c9e7a.png">
 
 
 ## Summary:
 
-- Show the length of time that bikes are checked out for all riders and genders
-- Show the number of bike trips for all riders and genders for each hour of each day of the week
-- Show the number of bike trips for each type of user and gender for each day of the week.
+The analysis of data from NYC Citibike suggests the following: 
+
+- The majority of users are paid subscribers as opposed to customers. 
+- The majority of rides are less than 1 hour in duration with the peak of users only riding for approximately 5 minutes. 
+- Males make up the majority of riders as compared to Females.
+- Peak hours of operation fall during between 0600-0900 & 1600-1900. 
+
+* It can be suggested that the majority of users are working males whom subscribe as a means of transport to/from the workplace during normal business hours. 
+
+* The remainder of users include tourists and those visiting famous landmarks. 
+
+Two additional Visualizations to be completed:
+1) Proportion of tourist users vs local users. 
+2) Age distribution of users.
+
+
+
 
