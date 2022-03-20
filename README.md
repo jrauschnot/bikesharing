@@ -82,9 +82,9 @@ The analysis of data from NYC Citibike suggests the following:
 - Males make up the majority of riders as compared to Females.
 - Peak hours of operation fall during between 0600-0900 & 1600-1900. 
 
-* It can be suggested that the majority of users are working males whom subscribe as a means of transport to/from the workplace during normal business hours. 
+* It can be suggested that the majority of users are working males whom subscribe as a means of transport to/from the workplace during normal business hours. The remainder of users include tourists and those visiting famous landmarks. 
 
-* The remainder of users include tourists and those visiting famous landmarks. 
+* Given current data, it is unclear if Des Moines, IA would be an appropriate market to start a similar venture.  Additional information is needed to include:
 
 Two additional Visualizations to be completed:
 1) Proportion of tourist users vs local users. 
